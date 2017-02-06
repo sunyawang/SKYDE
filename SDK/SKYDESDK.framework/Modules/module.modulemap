@@ -1,0 +1,6 @@
+framework module SKYDESDK {
+  umbrella header "SKYDESDK.h"
+
+  export *
+  module * { export * }
+}
